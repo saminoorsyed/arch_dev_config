@@ -1,0 +1,16 @@
+# Official developer packages. Same rules as pacman.txt.
+# rust provides cargo and rustfmt.
+# pnpm is a standalone binary and does not need nodejs.
+# nodejs and npm stay because Cursor and Neovim's Mason downloads use them.
+
+docker
+go
+luarocks
+nodejs
+npm
+nvm
+pnpm
+python
+python-pip
+rust
+tree-sitter-cli

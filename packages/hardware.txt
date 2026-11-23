@@ -1,0 +1,18 @@
+# Not installed. install.sh never reads this file.
+# This repo was packed on an Intel/NVIDIA laptop. The new machine needs its
+# own CPU microcode and GPU driver. Copy the lines you need into packages/pacman.txt.
+
+# amd-ucode
+# mesa
+# Hyprland already depends on mesa. A discrete GPU may also want one of:
+# nvidia-open
+# vulkan-radeon
+
+# Left on the laptop. Do not copy these onto the new PC:
+# intel-ucode
+# intel-media-driver
+# envycontrol
+# thermald
+# auto-cpufreq
+# sof-firmware
+# ollama-cuda

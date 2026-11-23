@@ -1,0 +1,7 @@
+[user]
+	name = Sami
+	email = saminoorsyed@gmail.com
+[core]
+	editor = nvim
+[credential]
+	helper = store

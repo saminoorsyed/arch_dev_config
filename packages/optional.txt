@@ -1,0 +1,19 @@
+# Not installed. install.sh never reads this file.
+# Copy an official name into packages/pacman.txt or packages/dev.txt.
+# Copy an AUR name into packages/aur.txt. Then re-run install.sh.
+
+# official (extra)
+# postgresql
+# google-cloud-cli
+# jre21-openjdk
+# firefox
+
+# AUR
+# mongodb-tools
+# mongosh-bin
+# google-chrome
+# google-cloud-cli-gsutil
+#
+# google-cloud-cli (official) provides gcloud and bq.
+# It does not install /usr/bin/gsutil.
+# google-cloud-cli-gsutil adds that command. Upstream does not recommend it.

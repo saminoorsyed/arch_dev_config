@@ -1,0 +1,47 @@
+# Official packages for the Hyprland desktop and Neovim.
+# One package name per line. Blank lines and lines starting with # are ignored.
+# qt5-wayland is still in extra, and is only needed for Qt 5 apps.
+# Dolphin and the Hyprland portal are Qt 6, so qt6-wayland is the one installed here.
+# qt5-wayland
+
+alacritty
+base-devel
+bash-completion
+blueman
+bluez
+bluez-utils
+brightnessctl
+dolphin
+fd
+fzf
+git
+grim
+gst-plugin-pipewire
+hyprland
+hyprlock
+hyprpaper
+hyprpolkitagent
+hyprshot
+mako
+neovim
+network-manager-applet
+networkmanager
+noto-fonts-emoji
+nwg-look
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+playerctl
+polkit
+qt6-wayland
+ripgrep
+slurp
+starship
+ttf-jetbrains-mono-nerd
+waybar
+wireplumber
+wl-clipboard
+wofi
+xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland

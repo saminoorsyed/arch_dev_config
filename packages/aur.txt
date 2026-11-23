@@ -1,0 +1,7 @@
+# AUR packages installed with yay after the official lists.
+# yay itself is built by install.sh when it is missing, so it is not listed here.
+# catppuccin-gtk-theme-mocha provides catppuccin-mocha-pink-standard+default.
+# cursor-bin pulls electron43, nodejs, and ripgrep from the official repos.
+
+catppuccin-gtk-theme-mocha
+cursor-bin
